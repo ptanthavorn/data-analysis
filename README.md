@@ -1,4 +1,4 @@
-This repository showcases my data visualization and analysis projects. I use Tableau to visualize business metrics and derive insights for business decision-making.
+This repository showcases my data visualization and analysis projects. I use Tableau to visualize business metrics, discover root causes, and provide recommendations.
 
 ### Projects:
 
