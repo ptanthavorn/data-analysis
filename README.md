@@ -3,6 +3,7 @@ This repository showcases my data ETL, Data visualization, and Data Analysis pro
 ### Projects:
 
 1. **Grocery Price Comparison by Major Cities**
+   <img src="https://github.com/user-attachments/assets/ea15f842-54aa-4755-9829-638a2b98e74a" width="500"/>
    ![image](https://github.com/user-attachments/assets/ea15f842-54aa-4755-9829-638a2b98e74a)
 
    **Tools used:** Python, Google Cloud, BigQuery, Looker  
